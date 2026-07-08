@@ -12,5 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/vivekraj6396/leetcode/tree/master/0016-3sum-closest) |
 | [0141-linked-list-cycle](https://github.com/vivekraj6396/leetcode/tree/master/0141-linked-list-cycle) |
+## Array
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/vivekraj6396/leetcode/tree/master/0016-3sum-closest) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/vivekraj6396/leetcode/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
