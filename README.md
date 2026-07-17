@@ -40,5 +40,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/vivekraj6396/leetcode/tree/master/0009-palindrome-number) |
 | [1837-sum-of-digits-in-base-k](https://github.com/vivekraj6396/leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 <!---LeetCode Topics End-->
