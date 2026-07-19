@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/vivekraj6396/leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/vivekraj6396/leetcode/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/vivekraj6396/leetcode/tree/master/0016-3sum-closest) |
+| [0061-rotate-list](https://github.com/vivekraj6396/leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/vivekraj6396/leetcode/tree/master/0141-linked-list-cycle) |
 ## Array
 |  |
