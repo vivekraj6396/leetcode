@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vivekraj6396/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vivekraj6396/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vivekraj6396/leetcode/tree/master/0048-rotate-image) |
 | [0342-power-of-four](https://github.com/vivekraj6396/leetcode/tree/master/0342-power-of-four) |
 | [1837-sum-of-digits-in-base-k](https://github.com/vivekraj6396/leetcode/tree/master/1837-sum-of-digits-in-base-k) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vivekraj6396/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Matrix
 |  |
 | ------- |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/vivekraj6396/leetcode/tree/master/0342-power-of-four) |
+## String
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vivekraj6396/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
