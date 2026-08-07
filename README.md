@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vivekraj6396/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vivekraj6396/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/vivekraj6396/leetcode/tree/master/0148-sort-list) |
+| [0633-sum-of-square-numbers](https://github.com/vivekraj6396/leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Array
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/vivekraj6396/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/vivekraj6396/leetcode/tree/master/0048-rotate-image) |
 | [0342-power-of-four](https://github.com/vivekraj6396/leetcode/tree/master/0342-power-of-four) |
+| [0633-sum-of-square-numbers](https://github.com/vivekraj6396/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1837-sum-of-digits-in-base-k](https://github.com/vivekraj6396/leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vivekraj6396/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Matrix
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vivekraj6396/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0633-sum-of-square-numbers](https://github.com/vivekraj6396/leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
