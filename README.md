@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vivekraj6396/leetcode/tree/master/0048-rotate-image) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vivekraj6396/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/vivekraj6396/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0137-single-number-ii](https://github.com/vivekraj6396/leetcode/tree/master/0137-single-number-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vivekraj6396/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/vivekraj6396/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/vivekraj6396/leetcode/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/vivekraj6396/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/vivekraj6396/leetcode/tree/master/0342-power-of-four) |
 ## Recursion
