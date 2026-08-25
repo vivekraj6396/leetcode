@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/vivekraj6396/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vivekraj6396/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vivekraj6396/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/vivekraj6396/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vivekraj6396/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vivekraj6396/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vivekraj6396/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/vivekraj6396/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
 | ------- |
