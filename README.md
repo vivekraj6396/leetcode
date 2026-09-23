@@ -235,10 +235,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vivekraj6396/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/vivekraj6396/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vivekraj6396/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/vivekraj6396/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 ## Breadth-First Search
 |  |
@@ -247,9 +249,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vivekraj6396/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/vivekraj6396/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 ## Enumeration
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/vivekraj6396/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vivekraj6396/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
