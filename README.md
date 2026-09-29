@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/vivekraj6396/leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vivekraj6396/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vivekraj6396/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2553-separate-the-digits-in-an-array](https://github.com/vivekraj6396/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vivekraj6396/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vivekraj6396/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vivekraj6396/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/vivekraj6396/leetcode/tree/master/0874-walking-robot-simulation) |
+| [2553-separate-the-digits-in-an-array](https://github.com/vivekraj6396/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vivekraj6396/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Combinatorics
 |  |
