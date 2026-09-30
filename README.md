@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/vivekraj6396/leetcode/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/vivekraj6396/leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/vivekraj6396/leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vivekraj6396/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/vivekraj6396/leetcode/tree/master/0086-partition-list) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vivekraj6396/leetcode/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/vivekraj6396/leetcode/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/vivekraj6396/leetcode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/vivekraj6396/leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/vivekraj6396/leetcode/tree/master/0048-rotate-image) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vivekraj6396/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
