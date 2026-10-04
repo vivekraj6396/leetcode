@@ -98,12 +98,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/vivekraj6396/leetcode/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vivekraj6396/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0396-rotate-function](https://github.com/vivekraj6396/leetcode/tree/master/0396-rotate-function) |
+| [0678-valid-parenthesis-string](https://github.com/vivekraj6396/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vivekraj6396/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vivekraj6396/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0611-valid-triangle-number](https://github.com/vivekraj6396/leetcode/tree/master/0611-valid-triangle-number) |
+| [0678-valid-parenthesis-string](https://github.com/vivekraj6396/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vivekraj6396/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/vivekraj6396/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/vivekraj6396/leetcode/tree/master/2029-stone-game-ix) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/vivekraj6396/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/vivekraj6396/leetcode/tree/master/0115-distinct-subsequences) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/vivekraj6396/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0678-valid-parenthesis-string](https://github.com/vivekraj6396/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vivekraj6396/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vivekraj6396/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vivekraj6396/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vivekraj6396/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vivekraj6396/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vivekraj6396/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/vivekraj6396/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vivekraj6396/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vivekraj6396/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
@@ -293,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vivekraj6396/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vivekraj6396/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vivekraj6396/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/vivekraj6396/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vivekraj6396/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vivekraj6396/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
