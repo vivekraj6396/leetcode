@@ -8,7 +8,6 @@ class Solution {
             for(int j=i;j<n;j++)
             {
                 set.add(nums.get(j));
-
                 int x=set.size();
                 sum+=x*x;
             }
