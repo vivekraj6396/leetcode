@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/vivekraj6396/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/vivekraj6396/leetcode/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vivekraj6396/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0343-integer-break](https://github.com/vivekraj6396/leetcode/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/vivekraj6396/leetcode/tree/master/0396-rotate-function) |
 | [0678-valid-parenthesis-string](https://github.com/vivekraj6396/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vivekraj6396/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/vivekraj6396/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/vivekraj6396/leetcode/tree/master/0048-rotate-image) |
 | [0342-power-of-four](https://github.com/vivekraj6396/leetcode/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/vivekraj6396/leetcode/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/vivekraj6396/leetcode/tree/master/0396-rotate-function) |
 | [0633-sum-of-square-numbers](https://github.com/vivekraj6396/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1837-sum-of-digits-in-base-k](https://github.com/vivekraj6396/leetcode/tree/master/1837-sum-of-digits-in-base-k) |
