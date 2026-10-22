@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vivekraj6396/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vivekraj6396/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vivekraj6396/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/vivekraj6396/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vivekraj6396/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vivekraj6396/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vivekraj6396/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vivekraj6396/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vivekraj6396/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/vivekraj6396/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/vivekraj6396/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Counting
 |  |
