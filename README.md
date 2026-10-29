@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vivekraj6396/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vivekraj6396/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/vivekraj6396/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/vivekraj6396/leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/vivekraj6396/leetcode/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vivekraj6396/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0343-integer-break](https://github.com/vivekraj6396/leetcode/tree/master/0343-integer-break) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/vivekraj6396/leetcode/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/vivekraj6396/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/vivekraj6396/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/vivekraj6396/leetcode/tree/master/0070-climbing-stairs) |
 | [0342-power-of-four](https://github.com/vivekraj6396/leetcode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/vivekraj6396/leetcode/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/vivekraj6396/leetcode/tree/master/0396-rotate-function) |
@@ -376,4 +378,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/vivekraj6396/leetcode/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vivekraj6396/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
