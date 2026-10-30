@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/vivekraj6396/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/vivekraj6396/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/vivekraj6396/leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/vivekraj6396/leetcode/tree/master/0089-gray-code) |
 | [0342-power-of-four](https://github.com/vivekraj6396/leetcode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/vivekraj6396/leetcode/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/vivekraj6396/leetcode/tree/master/0396-rotate-function) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vivekraj6396/leetcode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/vivekraj6396/leetcode/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/vivekraj6396/leetcode/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/vivekraj6396/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/vivekraj6396/leetcode/tree/master/0342-power-of-four) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vivekraj6396/leetcode/tree/master/0022-generate-parentheses) |
+| [0089-gray-code](https://github.com/vivekraj6396/leetcode/tree/master/0089-gray-code) |
 ## Bracket Sequences
 |  |
 | ------- |
