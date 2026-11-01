@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vivekraj6396/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/vivekraj6396/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/vivekraj6396/leetcode/tree/master/0396-rotate-function) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/vivekraj6396/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0611-valid-triangle-number](https://github.com/vivekraj6396/leetcode/tree/master/0611-valid-triangle-number) |
 | [0874-walking-robot-simulation](https://github.com/vivekraj6396/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vivekraj6396/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/vivekraj6396/leetcode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/vivekraj6396/leetcode/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/vivekraj6396/leetcode/tree/master/0396-rotate-function) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/vivekraj6396/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0633-sum-of-square-numbers](https://github.com/vivekraj6396/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1837-sum-of-digits-in-base-k](https://github.com/vivekraj6396/leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1927-sum-game](https://github.com/vivekraj6396/leetcode/tree/master/1927-sum-game) |
