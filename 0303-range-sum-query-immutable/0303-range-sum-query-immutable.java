@@ -4,7 +4,7 @@ class NumArray {
         prefix =new int[nums.length+1];
         for(int i=0;i<nums.length;i++)
         {
-            prefix[i+1] = prefix[i] + nums[i];
+            prefix[i+1]=prefix[i]+nums[i];
         }
     }
     public int sumRange(int left,int right) {
