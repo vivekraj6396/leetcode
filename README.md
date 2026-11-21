@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/vivekraj6396/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vivekraj6396/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/vivekraj6396/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/vivekraj6396/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0396-rotate-function](https://github.com/vivekraj6396/leetcode/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vivekraj6396/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vivekraj6396/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/vivekraj6396/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vivekraj6396/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3903-smallest-stable-index-i](https://github.com/vivekraj6396/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/vivekraj6396/leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -414,4 +416,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vivekraj6396/leetcode/tree/master/0070-climbing-stairs) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/vivekraj6396/leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
