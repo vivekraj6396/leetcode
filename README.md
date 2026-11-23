@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/vivekraj6396/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/vivekraj6396/leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/vivekraj6396/leetcode/tree/master/0089-gray-code) |
+| [0258-add-digits](https://github.com/vivekraj6396/leetcode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/vivekraj6396/leetcode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/vivekraj6396/leetcode/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/vivekraj6396/leetcode/tree/master/0396-rotate-function) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vivekraj6396/leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/vivekraj6396/leetcode/tree/master/0258-add-digits) |
 | [0874-walking-robot-simulation](https://github.com/vivekraj6396/leetcode/tree/master/0874-walking-robot-simulation) |
 | [2553-separate-the-digits-in-an-array](https://github.com/vivekraj6396/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vivekraj6396/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/vivekraj6396/leetcode/tree/master/0258-add-digits) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vivekraj6396/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Tree
 |  |
