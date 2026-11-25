@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/vivekraj6396/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/vivekraj6396/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vivekraj6396/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0264-ugly-number-ii](https://github.com/vivekraj6396/leetcode/tree/master/0264-ugly-number-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/vivekraj6396/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0874-walking-robot-simulation](https://github.com/vivekraj6396/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vivekraj6396/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/vivekraj6396/leetcode/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vivekraj6396/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/vivekraj6396/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0264-ugly-number-ii](https://github.com/vivekraj6396/leetcode/tree/master/0264-ugly-number-ii) |
 | [0343-integer-break](https://github.com/vivekraj6396/leetcode/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/vivekraj6396/leetcode/tree/master/0396-rotate-function) |
 | [0678-valid-parenthesis-string](https://github.com/vivekraj6396/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/vivekraj6396/leetcode/tree/master/0089-gray-code) |
 | [0258-add-digits](https://github.com/vivekraj6396/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/vivekraj6396/leetcode/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/vivekraj6396/leetcode/tree/master/0264-ugly-number-ii) |
 | [0342-power-of-four](https://github.com/vivekraj6396/leetcode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/vivekraj6396/leetcode/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/vivekraj6396/leetcode/tree/master/0396-rotate-function) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/vivekraj6396/leetcode/tree/master/0264-ugly-number-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vivekraj6396/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Indexed Tree
 |  |
