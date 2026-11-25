@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vivekraj6396/leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/vivekraj6396/leetcode/tree/master/0089-gray-code) |
 | [0258-add-digits](https://github.com/vivekraj6396/leetcode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/vivekraj6396/leetcode/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/vivekraj6396/leetcode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/vivekraj6396/leetcode/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/vivekraj6396/leetcode/tree/master/0396-rotate-function) |
