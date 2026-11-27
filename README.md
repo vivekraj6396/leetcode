@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/vivekraj6396/leetcode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/vivekraj6396/leetcode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/vivekraj6396/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0301-remove-invalid-parentheses](https://github.com/vivekraj6396/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vivekraj6396/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/vivekraj6396/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0678-valid-parenthesis-string](https://github.com/vivekraj6396/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/vivekraj6396/leetcode/tree/master/0100-same-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/vivekraj6396/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0513-find-bottom-left-tree-value](https://github.com/vivekraj6396/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 ## Binary Tree
 |  |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/vivekraj6396/leetcode/tree/master/0022-generate-parentheses) |
 | [0089-gray-code](https://github.com/vivekraj6396/leetcode/tree/master/0089-gray-code) |
+| [0301-remove-invalid-parentheses](https://github.com/vivekraj6396/leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
